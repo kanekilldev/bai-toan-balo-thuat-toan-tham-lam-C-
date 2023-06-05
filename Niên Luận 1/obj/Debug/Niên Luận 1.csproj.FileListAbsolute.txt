@@ -1,0 +1,36 @@
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\bin\Debug\Niên Luận 1.exe.config
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\bin\Debug\Niên Luận 1.exe
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\bin\Debug\Niên Luận 1.pdb
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.csprojAssemblyReference.cache
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.Form1.resources
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.Properties.Resources.resources
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.csproj.GenerateResource.cache
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.exe
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.pdb
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.BangKQ.resources
+C:\Users\TGDD\OneDrive\Tài liệu\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.Thedovat.resources
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\bin\Debug\Niên Luận 1.exe.config
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\bin\Debug\Niên Luận 1.exe
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\bin\Debug\Niên Luận 1.pdb
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.csproj.AssemblyReference.cache
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.BangKQ.resources
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.Form1.resources
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.Properties.Resources.resources
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.Thedovat.resources
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.csproj.GenerateResource.cache
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.csproj.CoreCompileInputs.cache
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.exe
+C:\Users\truon\OneDrive\Máy tính\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.pdb
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\bin\Debug\Niên Luận 1.exe.config
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\bin\Debug\Niên Luận 1.exe
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\bin\Debug\Niên Luận 1.pdb
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.BangKQ.resources
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.Form1.resources
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.Properties.Resources.resources
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\obj\Debug\Niên_Luận_1.Thedovat.resources
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.csproj.GenerateResource.cache
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.csproj.CoreCompileInputs.cache
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.exe
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.pdb
+C:\Users\truon\OneDrive - vietdragon\Niên Luận 1\Niên Luận 1\obj\Debug\Niên Luận 1.csprojAssemblyReference.cache
